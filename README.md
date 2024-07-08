@@ -23,12 +23,17 @@
 > </a>
 ![Demo Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=LeHuynhDuc-01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LeHuynhDuc-01&theme=radical&hide_border=false)<br/>
+# 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=LeHuynhDuc-01&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeHuynhDuc-01&theme=radical&hide_border=false" width="100%">
 
 ![Demo Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
+
 ![Demo Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 [![](https://visitcount.itsvg.in/api?id=LeHuynhDuc-01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
