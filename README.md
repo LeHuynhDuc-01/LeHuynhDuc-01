@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Le+Huynh+Duc;Nice+to+Meet+You+!!!.+%F0%9F%98%84;Have+a+nice+day!!!...)](https://github.com/LeHuynhDuc-01)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=006400&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Le+Huynh+Duc;Nice+to+Meet+You+!!!.+%F0%9F%98%84;Have+a+nice+day!!!...)](https://github.com/LeHuynhDuc-01)
 ![Demo Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lehuynhduc150422) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/l%C3%AA-hu%E1%BB%B3nh-%C4%91%E1%BB%A9c-a7a941314/) 
